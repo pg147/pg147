@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prathmesh Gaidhane</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">"Crafting seamless and intuitive web experiences with a touch of creativity and code."
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pg147&label=Profile%20views&color=0e75b6&style=flat" alt="pg147" /> </p>
 
