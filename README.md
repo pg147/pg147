@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pg147&label=Profile%20views&color=0e75b6&style=flat" alt="pg147" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pg147" alt="pg147" /></a> </p>
-
 - 🔭 I’m currently working on **House of Travellers - a B2C travel project in the Indian market.**
 
 - 🌱 I’m currently learning **React Native to expand my cross-platform development skills.**
