@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend website projects.**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/pg147](https://linktr.ee/pg147)
+- 👨‍💻 All of my designs are available at [https://linktr.ee/pg147](https://linktr.ee/pg147)
 
 - 💬 Ask me about **React JS – I love discussing component-based architecture, hooks, and performance optimization.**
 
