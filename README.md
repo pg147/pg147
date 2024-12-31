@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pg147&label=Profile%20views&color=0e75b6&style=flat" alt="pg147" /> </p>
 
-- 🔭 I’m currently working on **House of Travellers - a B2C travel project in the Indian market.**
+- 🔭 I’m currently working on **Chatty.io - A real-time chat application**
 
 - 🌱 I’m currently learning **React Native to expand my cross-platform development skills.**
 
-- 👯 I’m looking to collaborate on **Frontend website projects.**
+- 👯 I’m looking to collaborate on **MERN Stack Projects.**
 
 - 👨‍💻 All of my designs are available at [https://linktr.ee/pg147](https://linktr.ee/pg147)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **prathmeshgaidhane6@gmail.com**
 
-- ⚡ Fun fact **Despite being an SDE, I'm passionate about UI/UX and the front-end experience.**
+- ⚡ Fun fact **The only relationship I can commit to is Git.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
