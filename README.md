@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pg147&label=Profile%20views&color=0e75b6&style=flat" alt="pg147" /> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/pg147/chatty-io" target="blank">**Chatty.io - A real-time chat application**</a>
+- 🔭 I’m currently working on <a href="https://github.com/pg147/snapgram-mern" target="blank">**Snapgram - A Full Stack Social Media Application**</a>
 
 - 🌱 I’m currently learning **React Native to expand my cross-platform development skills.**
 
