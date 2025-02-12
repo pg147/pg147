@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/pg147/mystback-next-js" target="blank">**Mystback - A Full Stack Next.js Anonymous feedback application**</a>
 
-- 👯 I’m looking to collaborate on **Full Stack projects based on MERN / PERN Stack**
+- 👯 I’m looking to collaborate on **Full Stack projects based on MERN Stack**
 
 - 👨‍💻 Best of my work is available at [my portfolio website.](https://www.prathmesh.dev)
 
