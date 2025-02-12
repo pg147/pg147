@@ -4,17 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pg147&label=Profile%20views&color=0e75b6&style=flat" alt="pg147" /> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/pg147/beat-sync" target="blank">**BeatSync - A Full Stack Music Player**</a>
+- 🔭 I’m currently working on <a href="https://github.com/pg147/mystback-next-js" target="blank">**Mystback - A Full Stack Next.js Anonymous feedback application**</a>
 
-- 🌱 I’m currently learning **React Native to expand my cross-platform development skills.**
+- 👯 I’m looking to collaborate on **Full Stack projects based on MERN / PERN Stack**
 
-- 👯 I’m looking to collaborate on **MERN Stack Projects.**
-
-- 👨‍💻 All of my designs are available at [https://linktr.ee/pg147](https://linktr.ee/pg147)
+- 👨‍💻 Best of my work is available at [my portfolio website.](https://www.prathmesh.dev)
 
 - 💬 Ask me about **React JS – I love discussing component-based architecture, hooks, and performance optimization.**
 
-- 📫 How to reach me **prathmeshgaidhane6@gmail.com**
+- 📫 How to reach me **hi@prathmesh.dev**
 
 - ⚡ Fun fact **The only relationship I can commit to is Git.**
 
