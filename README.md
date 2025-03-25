@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pg147&label=Profile%20views&color=0e75b6&style=flat" alt="pg147" /> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/pg147/yc-directory-next-js" target="blank">**YC Directory - A Full Stack Next.js Startup display application**</a>
-
 - 👯 I’m looking to collaborate on **Full Stack projects based on MERN/Next.js**
 
 - 👨‍💻 Best of my work is available at [my portfolio website.](https://www.prathmesh.dev)
